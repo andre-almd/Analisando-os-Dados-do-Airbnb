@@ -4,6 +4,11 @@ Neste notebook, iremos analisar os dados referentes à **região metropolitana d
 **Este é um projeto proposto no curso Data Science Na Prática 3.0 do [Sigmoidal](https://sigmoidal.ai/).**
 
 ## Região metropolitana de Lisboa
+
+<p align="center">
+<img src="https://viagemeturismo.abril.com.br/wp-content/uploads/2017/01/belem-tower-2809818_1920.jpg?quality=70&strip=info&resize=680,453" />
+</p>
+
 A Área Metropolitana de Lisboa é uma região e subregião situada no centro-sul de Portugal, com a capital localizada na cidade de Lisboa, tendo mais de 2 milhões de habitantes, sendo a segunda região mais populosa do país, com uma densidade populacional de mais 900 habitantes por km², sendo a maior área urbana do país, e uma área total de 3.001 km², sendo a quinta região mais extensa do país.
 
 É uma das sete regiões de Portugal, constituída por 118 freguesias (cidades), compreendendo em 18 municípios e sendo no mesmo tempo constituída pela mesma e única subregião, tendo o mesmo nome.
